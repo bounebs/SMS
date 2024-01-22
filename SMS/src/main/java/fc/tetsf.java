@@ -20,5 +20,6 @@ public class tetsf {
     public void methode1(){
         int i = 0;
         i=4;
+        i=7;
 }
 }
